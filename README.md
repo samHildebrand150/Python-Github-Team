@@ -1,4 +1,4 @@
-# Python-Github-Team
+# Python-github-team
 ENG220
 10/16/2026
 Team quiz: Python & GitHub
